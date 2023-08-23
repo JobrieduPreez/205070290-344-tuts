@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Module 1",
+    "lecturer": "Professor A",
+    "availableTimes": [1, 2],
+    "students": 30
+  },
+  {
+    "name": "Module 2",
+    "lecturer": "Professor B",
+    "availableTimes": [3, 4],
+    "students": 25
+  },
+  {
+    "name": "Module 3",
+    "lecturer": "Professor C",
+    "availableTimes": [1, 3],
+    "students": 20
+  },
+  {
+    "name": "Module 4",
+    "lecturer": "Professor D",
+    "availableTimes": [2, 4],
+    "students": 15
+  },
+  {
+    "name": "Module 5",
+    "lecturer": "Professor E",
+    "availableTimes": [1, 4],
+    "students": 40
+  },
+  {
+    "name": "Module 6",
+    "lecturer": "Professor F",
+    "availableTimes": [2, 3],
+    "students": 35
+  },
+  {
+    "name": "Module 7",
+    "lecturer": "Professor G",
+    "availableTimes": [3],
+    "students": 30
+  },
+  {
+    "name": "Module 8",
+    "lecturer": "Professor H",
+    "availableTimes": [1],
+    "students": 25
+  },
+  {
+    "name": "Module 9",
+    "lecturer": "Professor I",
+    "availableTimes": [4],
+    "students": 20
+  },
+  {
+    "name": "Module 10",
+    "lecturer": "Professor J",
+    "availableTimes": [2],
+    "students": 15
+  }
+]
+
+  

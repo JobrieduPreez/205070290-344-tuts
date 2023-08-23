@@ -1,0 +1,64 @@
+[
+  {
+    "name": "Venue A",
+    "building": "Building 1",
+    "availableTimes": [1, 2, 3],
+    "seats": 50
+  },
+  {
+    "name": "Venue B",
+    "building": "Building 2",
+    "availableTimes": [2, 3, 4],
+    "seats": 40
+  },
+  {
+    "name": "Venue C",
+    "building": "Building 1",
+    "availableTimes": [1, 3, 4],
+    "seats": 60
+  },
+  {
+    "name": "Venue D",
+    "building": "Building 2",
+    "availableTimes": [3, 4],
+    "seats": 35
+  },
+  {
+    "name": "Venue E",
+    "building": "Building 3",
+    "availableTimes": [1, 2],
+    "seats": 45
+  },
+  {
+    "name": "Venue F",
+    "building": "Building 3",
+    "availableTimes": [2, 3],
+    "seats": 30
+  },
+  {
+    "name": "Venue G",
+    "building": "Building 4",
+    "availableTimes": [1, 2],
+    "seats": 25
+  },
+  {
+    "name": "Venue H",
+    "building": "Building 4",
+    "availableTimes": [1, 3, 4],
+    "seats": 55
+  },
+  {
+    "name": "Venue I",
+    "building": "Building 5",
+    "availableTimes": [2, 3],
+    "seats": 50
+  },
+  {
+    "name": "Venue J",
+    "building": "Building 5",
+    "availableTimes": [1, 4],
+    "seats": 40
+  }
+]
+
+  
